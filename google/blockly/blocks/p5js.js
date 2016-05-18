@@ -1,6 +1,6 @@
 'use strict';
 
-goog.provide('Blockly.Blocks.variables');
+goog.provide('Blockly.Blocks.p5js');
 
 goog.require('Blockly.Blocks');
 
